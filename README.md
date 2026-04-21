@@ -6,6 +6,11 @@ This repository contains the official implementation of the paper:
 
 ---
 
+👥 Authors
+
+Rakib Ul Haque, Wei-Ming Lin, and Panagiotis Markopoulos
+University of Texas at San Antonio (UTSA)
+
 ## 📌 Overview
 
 Modern processors increasingly face **emergent workloads**—previously unseen execution patterns that appear on a subset of devices and later propagate across systems. Traditional branch predictors struggle to generalize under such conditions, especially in **non-IID environments**.
