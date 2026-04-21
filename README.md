@@ -8,7 +8,8 @@ This repository contains the official implementation of the paper:
 
 👥 Authors
 
-Rakib Ul Haque, Wei-Ming Lin, and Panagiotis Markopoulos
+Rakib Ul Haque, Wei-Ming Lin, and Panagiotis (Panos) Markopoulos
+
 University of Texas at San Antonio (UTSA)
 
 ## 📌 Overview
