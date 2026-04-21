@@ -35,6 +35,8 @@ This work introduces a **hardware-aware federated learning (FL) framework** for 
 
 ---
 
+The dataset used in this work is publicly available and can be downloaded from the following repository: https://utsacloud-my.sharepoint.com/:f:/g/personal/rakibul_haque_utsa_edu/IgBPvT2tZ1_JTpVUZRsdp5VcAUVZAKrnkQ31BUvunLSSwlA?e=T4Jrob
+
 ## 📊 Results Summary
 
 * Federated pretraining significantly improves **global generalization**
